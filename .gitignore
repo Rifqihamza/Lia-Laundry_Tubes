@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /vendor/
 node_modules/
 npm-debug.log
@@ -31,6 +32,8 @@ Homestead.json
 .phpactor.json
 auth.json
 =======
+=======
+>>>>>>> 9892f07070608d9f4988133855af9bc9493d088d
 *.log
 .DS_Store
 .env
@@ -58,4 +61,7 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+<<<<<<< HEAD
 >>>>>>> 9892f07 (First Commit)
+=======
+>>>>>>> 9892f07070608d9f4988133855af9bc9493d088d
